@@ -16,4 +16,5 @@ struct _AtkValue {};
 struct _AtkWindow {};
 
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
+#include <sys/types.h>
 #include <atk/atk.h>
